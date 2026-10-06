@@ -36,3 +36,7 @@ div{
 img{
     width: 700px;
 }
+p#partido{
+    font-size: 22px;
+    text-align: center;
+}
