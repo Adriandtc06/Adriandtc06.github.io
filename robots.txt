@@ -1,2 +1,4 @@
 User-agent:*
 Allow:/
+Disallow: /privado
+Sitemap: https://adriandtc06.github.io/sitemap
