@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <url>
+       <loc>https://adriandtc06.github.io/</loc>
+       <lastmod>2026-10-13T08:14:09+00:00</lastmod>
+       <priority>1.0000</priority>
+  </url>
+  <url>
+       <loc>https://adriandtc06.github.io/historia.html</loc>
+       <lastmod>2026-10-13T08:14:09+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://adriandtc06.github.io/palmares.html</loc>
+       <lastmod>2026-10-13T08:14:09+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://adriandtc06.github.io/plantilla.html</loc>
+       <lastmod>2026-10-13T08:14:09+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://adriandtc06.github.io/calendario.html</loc>
+       <lastmod>2026-10-13T08:14:09+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://adriandtc06.github.io/leyendas.html</loc>
+       <lastmod>2026-10-13T08:14:09+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://adriandtc06.github.io/noticias.html</loc>
+       <lastmod>2026-10-13T08:14:09+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://adriandtc06.github.io/tienda.html</loc>
+       <lastmod>2026-10-13T08:14:09+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://adriandtc06.github.io/enlaces</loc>
+       <lastmod>2026-10-13T08:14:09+00:00</lastmod>
+       <priority>0.6400</priority>
+  </url>
+</urlset>
