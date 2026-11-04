@@ -30,6 +30,12 @@ h2{
 img{
     width: 700px;
 }
+div{
+    border: 2px solid black;
+    padding: 15px;
+    margin: 20px;
+    font-size: 16px;
+}
 #partidos{
     border: none;
     padding: 0;
@@ -45,6 +51,7 @@ img{
 #partidos div:hover{
     background-color: rgb(0, 82, 155);
     color: white;
+    border: none;
 }
 p#partido{
     font-size: 24px;
@@ -53,13 +60,4 @@ p#partido{
 }
 #partidos div:hover p{
     color: white;
-}
-div{
-    border: 2px solid black;
-    padding: 15px;
-    margin: 20px;
-    font-size: 16px;
-}
-p{
-    margin: 10px;
 }
