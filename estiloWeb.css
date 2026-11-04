@@ -61,3 +61,6 @@ p#partido{
 #partidos div:hover p{
     color: white;
 }
+img#logo{
+    width: 20px;
+}
